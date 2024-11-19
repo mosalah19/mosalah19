@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="./assets/9.png"> <!-- Replace with your avatar image -->
+<img src="./assets/9.jpg"> <!-- Replace with your avatar image -->
 
 </div>
 
