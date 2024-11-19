@@ -9,7 +9,7 @@
 
 ---
 
-![Profile Banner](https://user-images.githubusercontent.com/your-image-path/banner-image.png) <!-- Replace with your banner image -->
+![Profile Banner](./assets/rsz_untitled_design.png) <!-- Replace with your banner image -->
 
 </div>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/your-image-path/avatar-image.png" align="right" width="300" alt="AI Avatar"> <!-- Replace with your avatar image -->
+<img src="./assets/9.png"> <!-- Replace with your avatar image -->
 
 </div>
 
